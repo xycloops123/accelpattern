@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-	<string name="app_name">Pattern Lock</string>
+	<string name="app_name">Accel Pattern</string>
     <string name="pattern_screen">Choose Your Pattern</string>
-    <string name="unlock_pattern">Make an unlock pattern:</string>
+    <string name="unlock_pattern">Make a pattern(By moving Left, Right, Upwards, Backwards):</string>
     <string name="continue_button">Continue</string>
     <string name="retry_button">Retry</string>
     <string name="confirm_button">Confirm</string>
     <string name="cancel_button">Cancel</string>
     <string name="pattern_recorded">Pattern recorded.</string>
-    <string name="pattern_toconfirm">Make pattern again to confirm:</string>
+    <string name="pattern_toconfirm">Make the previous pattern again to confirm:</string>
     <string name="password_recorded">Your password has been recorded!</string>
     <string name="yournew_unlock">Your new unlock pattern</string>
     <string name="try_again">Try again:</string>
